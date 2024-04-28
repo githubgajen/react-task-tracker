@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Go To Gym",
+      "day": " 4 days a week at 6:00am",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Good/Cook Food",
+      "day": "3 days a week at 12:00pm",
+      "reminder": false
+    }
+  ]
+}
