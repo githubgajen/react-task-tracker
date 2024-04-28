@@ -6,11 +6,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
-=======
     "json-server": "^1.0.0-alpha.23",
->>>>>>> 8d0f538 (downloaded json-server implementation build from vercel, created new repo and push to same github repo)
-    "react": "^18.2.0",
+"react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.1.0",
     "react-scripts": "5.0.1",
@@ -20,13 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
-    "eject": "react-scripts eject"
-=======
     "eject": "react-scripts eject",
     "server":"json-server --watch db.json --port 5000"
->>>>>>> 8d0f538 (downloaded json-server implementation build from vercel, created new repo and push to same github repo)
-  },
+},
   "eslintConfig": {
     "extends": [
       "react-app",
